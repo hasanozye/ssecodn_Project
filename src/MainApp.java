@@ -11,7 +11,6 @@ public class MainApp {
         System.out.println("Bye Bitch!");
         System.out.println("Hi Worldzz");
 
-        //TODO: Bu kısımda toplama işlemi yapılacaktır.
 
 
     }
